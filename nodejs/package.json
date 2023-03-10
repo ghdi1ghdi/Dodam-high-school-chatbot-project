@@ -1,0 +1,15 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "this is about my nodejs tutorial",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^7.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lee ho",
+  "license": "ISC"
+}
